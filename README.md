@@ -40,8 +40,3 @@ My portfolio website consists of the following pages:
     Contact: This page includes a contact form that visitors can use to get in touch with me.
     
     
-    
-<video width="320" height="240" controls>
-  <source src="video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
