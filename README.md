@@ -38,3 +38,10 @@ My portfolio website consists of the following pages:
     About: This page provides a more detailed summary of my background, education, and work experience.
     Projects: This page showcases some of the front-end projects I have built, along with descriptions and links to their respective GitHub repositories and live demos.
     Contact: This page includes a contact form that visitors can use to get in touch with me.
+    
+    
+    
+<video width="320" height="240" controls>
+  <source src="video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
